@@ -1,4 +1,4 @@
-# MNIST Digit Classifier
+# CNN Digit Classifier
 
 A convolutional neural network (CNN) built with PyTorch that classifies handwritten digits (0–9) using the MNIST dataset.
 
